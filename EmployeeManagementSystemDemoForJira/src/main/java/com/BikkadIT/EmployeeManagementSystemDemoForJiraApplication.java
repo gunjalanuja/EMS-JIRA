@@ -8,6 +8,7 @@ public class EmployeeManagementSystemDemoForJiraApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EmployeeManagementSystemDemoForJiraApplication.class, args);
+		int b=10;
 	}
 
 }
