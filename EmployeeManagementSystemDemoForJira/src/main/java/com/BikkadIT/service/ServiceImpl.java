@@ -18,4 +18,11 @@ public class ServiceImpl implements ServiceI{
 		return null;
 	}
 
+	@Override
+	public void delete(int empid)
+	{
+		System.out.println("Deleted");
+		
+	}
+
 }
