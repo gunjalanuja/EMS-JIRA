@@ -11,4 +11,11 @@ public class ServiceImpl implements ServiceI{
 		return null;
 	}
 
+	@Override
+	public Entity getallEmployee() 
+	{
+		  System.out.println("Anuja");
+		return null;
+	}
+
 }
